@@ -35,7 +35,7 @@
 | 🟡 **Codeforces** | [thefahimahamed](https://codeforces.com/profile/thefahimahamed) | Main contest platform |
 | 🟠 **CodeChef** | [TheFahimAhamed](https://www.codechef.com/users/TheFahimAhamed) | Long challenges |
 | ⬛ **AtCoder** | [TheFahimAhamed](https://atcoder.jp/users/TheFahimAhamed) | Algorithm contests |
-| 🔵 **UVa Online Judge** | [TheFahimAhamed](https://uhunt.onlinejudge.org/) | Classic problems |
+| 🔵 **UVa Online Judge** | [TheFahimAhamed](https://uhunt.onlinejudge.org/id/1709736) | Classic problems |
 | 🟢 **LeetCode** | [thefahimahamed](https://leetcode.com/thefahimahamed) | Interview prep |
 
 ---
