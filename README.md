@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝
 ```
 
-### Fahim Ahamed
+### Fahim Ahamed — @thefahimahamed
 **Competitive Programmer** • CSE Student • Tejgaon College, Dhaka
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thefahimahamed.thefahimahamed)
@@ -25,6 +25,7 @@
 - 📚 Currently learning **Recursion → Backtracking → DP → Graphs**
 - 🎯 Goal: Reach **Codeforces Specialist** by end of year
 - 🎮 Long term goal: **PC Game Development with Unreal Engine**
+- 🔖 Find me everywhere as **@thefahimahamed** or **#thefahimahamed**
 
 ---
 
@@ -94,7 +95,7 @@ Unreal Engine          🎮 goal
 
 ---
 
-## 🔗 Connect
+## 🔗 Competitive Programming & Professional
 
 <div align="center">
 
@@ -109,6 +110,24 @@ Unreal Engine          🎮 goal
 
 ---
 
+## 🌐 Social Media — @thefahimahamed
+
+<div align="center">
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thefahimahamed)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thefahimahamed/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thefahimahamed2.0/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thefahimahamed)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/thefahimahamed)
+[![About.me](https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=about.me&logoColor=white)](https://about.me/thefahimahamed/)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/TheFahimAhamed)
+
+</div>
+
+---
+
 <div align="center">
 <i>"First solve the problem. Then write the code."</i>
+<br><br>
+<b>@thefahimahamed</b> • #thefahimahamed
 </div>
