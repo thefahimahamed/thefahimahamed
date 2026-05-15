@@ -21,7 +21,7 @@
 ## 🧠 About Me
 
 - 🎓 First year CSE student at **Tejgaon College**, Dhaka
-- ⚔️ Competitive programmer with **807+ problems** solved across multiple judges
+- ⚔️ Competitive programmer with **1000+ problems** solved across multiple judges
 - 📚 Currently learning **Recursion → Backtracking → DP → Graphs**
 - 🎯 Goal: Reach **Codeforces Specialist** by end of year
 - 🎮 Long term goal: **PC Game Development with Unreal Engine**
@@ -44,11 +44,10 @@
 ## 📊 Problem Solving Stats
 
 ```
-Total Problems Solved : 807+
 Platforms            : Codeforces • CodeChef • AtCoder • UVa • LeetCode
 Strong Topics        : Greedy • Math • Binary Search • Two Pointers
                        Prefix/Suffix Sum • Sorting • Bitmask
-                       String • Implementation • Recursion
+                       String • Implementation • Recursion • Sliding Window
 Currently Learning   : Backtracking → Dynamic Programming → Graphs
 ```
 
@@ -80,18 +79,6 @@ Unreal Engine          🎮 goal
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thefahimahamed&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thefahimahamed&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
